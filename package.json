@@ -1,0 +1,25 @@
+{
+  "name": "side-scrolling",
+  "version": "1.0.0",
+  "description": "mario type side scrolling action game",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3nzoo/side-scrolling.git"
+  },
+  "author": "Enzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3nzoo/side-scrolling/issues"
+  },
+  "homepage": "https://github.com/3nzoo/side-scrolling#readme",
+  "dependencies": {
+    "express": "4.17.3"
+  }
+}
